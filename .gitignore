@@ -1,0 +1,10 @@
+/nbproject/private/
+config/ConfigProduct.json
+config/ConfigDataTree.json
+config/configDB.json
+config/configSSH.json
+.idea/*
+.vscode/*
+code_generator/app/database/util/
+code_generator/app/files/
+database/db_product_config.db

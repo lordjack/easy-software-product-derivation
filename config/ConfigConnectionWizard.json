@@ -1,0 +1,9 @@
+{
+  "type": "sqlite",
+  "host": "",
+  "port": "",
+  "name": "admin/app/database/db_wizard_spl.db",
+  "user": "",
+  "pass": "",
+  "ini_file": "db_connection"
+}

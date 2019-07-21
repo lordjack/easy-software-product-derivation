@@ -1,0 +1,9 @@
+{  "type": "sqlite",
+                          "host": "",
+                          "port": "3306",
+                          "name": "",
+                          "user": "",
+                          "pass": "",
+                          "ini_file": "",
+                          "docker_container": ""
+                      }

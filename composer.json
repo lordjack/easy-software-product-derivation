@@ -1,0 +1,17 @@
+{
+  "autoload": {
+    "classmap": [
+      "database/Connection.class.php",
+      "database/LoadConfig.class.php",
+      "ProcessProduct.php",
+      "lib/Session.php",
+      "lib/checkConn.class.php",
+      "lib/FeatureModules.class.php",
+      "lib/Functions.php"
+    ]
+  },
+  "require": {
+    "phpseclib/phpseclib": "^2.0.10",
+    "cpliakas/git-wrapper": "^1.7.0"
+  }
+}
