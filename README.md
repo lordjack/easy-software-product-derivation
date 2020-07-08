@@ -7,3 +7,7 @@ Para usar e testar a ferramenta, também foi desenvolvido um [blog](https://gith
 Para o funcionamento completo do [blog](https://github.com/lordjack/bloglps), é necessário que ele seja derivado e implantado através da ferramenta [ESPD](https://github.com/lordjack/easy-software-product-derivation). 
 
 Qualquer dúvida sobre como configurar e utilizar a ferramenta basta entrar em contato comigo através do email [lordjackson@gmail.com](mailto:lordjackson@gmail.com) ou dar uma conferida na minha [dissertação](https://repositorio.ufrn.br/jspui/handle/123456789/26737), nela explico todo é o funcionamento da ferramenta e também no apêndice tem o passo a passo de sua utilização.
+
+# Copyright and license
+
+Code and documentation copyright 2011–2020 the Author Jackson Meires Dantas Canuto, Inc. Code released under the MIT License[MIT License](https://github.com/lordjack/easy-software-product-derivation/blob/master/LICENSE). Docs released under Creative Commons.
