@@ -10,4 +10,4 @@ Qualquer dúvida sobre como configurar e utilizar a ferramenta basta entrar em c
 
 # Copyright and license
 
-Code and documentation copyright 2011–2020 the Author Jackson Meires Dantas Canuto, Inc. Code released under the MIT License[MIT License](https://github.com/lordjack/easy-software-product-derivation/blob/master/LICENSE). Docs released under Creative Commons.
+Code and documentation copyright 2011–2020 the Author Jackson Meires Dantas Canuto, Inc. Code released under the [MIT License](https://github.com/lordjack/easy-software-product-derivation/blob/master/LICENSE). Docs released under Creative Commons.
