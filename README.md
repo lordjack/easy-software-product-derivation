@@ -11,7 +11,7 @@ Qualquer dúvida sobre como configurar e utilizar a ferramenta basta entrar em c
 
 Imagens da Ferramenta
 [Gerador de CRUDs](#anchors-in-markdown)
-
+![Tela do Gerador_de código-Fonte_com_opções](https://github.com/lordjack/easy-software-product-derivation/blob/master/img/tela_do_gerador_de_codigo_fonte_com_opcoes.png)
 
 # Copyright and license
 
