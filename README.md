@@ -11,7 +11,7 @@ Qualquer dúvida sobre como configurar e utilizar a ferramenta basta entrar em c
 
 **Vídeo e Imagens da Ferramenta**
 
-[Clique aqui para ver o vídeo o demostrativo](https://youtu.be/pDDkwNBcG5E)  
+[Clique aqui para ver o vídeo demostrativo](https://youtu.be/pDDkwNBcG5E)  
 
 [![Vídeo da Ferramenta](https://j.gifs.com/r8DryK.gif)](https://youtu.be/pDDkwNBcG5E)  
 
